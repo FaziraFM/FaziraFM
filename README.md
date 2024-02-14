@@ -11,7 +11,7 @@
 <div id="header" align="start">
   <ul>
     <li> 🔭 A student, freelancer and intern in Software Engineering mainly on front-end development and graphic design. </li>
-    <li> 🌱 Currently learning to improve my knowledge in JavaScript on LeetCode and also taking class for Fundamental in Digital Marketing. </li>
+    <li> 🌱 Currently learning to improve my knowledge in JavaScript on LeetCode and also will be taking class for ReactNative. </li>
     <li> 🤔 Looking for help with Python for development using Quasar running on Docker and Odoo. </li>
     <li> 📫 How to reach me: fazira_modi@outlook.com / fazferrari99@gmail.com. </li>
     <li> ⚡ Fun fact: I wanna be a rock
