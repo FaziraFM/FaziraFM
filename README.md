@@ -14,7 +14,7 @@
     <li> 🌱 Currently learning to improve my knowledge in JavaScript on LeetCode.</li>
     <li> 📚 Currently taking class for Meta Certified Digital Marketing & Conversational Mandarin and also will be taking class for ReactNative. </li>
     <li> 🤔 Looking for help with Python for development using Quasar running on Docker and Odoo. </li>
-    <li> 📫 How to reach me: fazira_modi@outlook.com / fazferrari99@gmail.com. </li>
+    <li> 📫 How to reach me: fazferrari99@gmail.com / fazira_modi@outlook.com </li>
     <li> ⚡ Fun fact: I wanna be a rock
   </ul>
 </div>
