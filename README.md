@@ -16,6 +16,7 @@
     <li> 📚 Currently taking class for ReactNative. </li>
     <li> 🤔 Looking for help with web-base development specifically for web on-scroll animations.</li>
     <li> 📫 How to reach me: <a href="mailto:fazferrari99@gmail.com">fazferrari99@gmail.com</a> </li>
+    <li> 💡 I'll basically learn anything that peaks my interest. It's random most of the time XD</li>
     <li> ⚡ Fun fact: I wanna be a rock... heh
   </ul>
 </div>
