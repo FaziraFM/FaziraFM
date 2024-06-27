@@ -14,7 +14,7 @@
     <li> 🕵🏻 Freelancer mainly on front-end development, UI/UX design and graphic design. </li>
     <li> 🌱 Currently learning to improve my knowledge in JavaScript on LeetCode.</li>
     <li> 📚 Currently taking class for ReactNative. </li>
-    <li> 🤔 Looking for help with web-base development specifically for web on-scroll animations</li>
+    <li> 🤔 Looking for help with web-base development specifically for web on-scroll animations.</li>
     <li> 📫 How to reach me: fazferrari99@gmail.com</li>
     <li> ⚡ Fun fact: I wanna be a rock... heh
   </ul>
