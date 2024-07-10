@@ -11,7 +11,7 @@
 <div id="header" align="start">
   <ul>
     <li> 👩🏻‍💻 Software Engineer at Phi Software Sdn. Bhd. </li>
-    <li> 🕵🏻 Freelancer mainly on front-end development, UI/UX design and graphic design. </li>
+    <li> 🕵🏻 Also a freelancer mainly on front-end development, UI/UX design and graphic design. </li>
     <li> 🌱 Currently learning to improve my knowledge in JavaScript on LeetCode.</li>
     <li> 📚 Currently taking class for ReactNative. </li>
     <li> 🤔 Looking for help with web-base development specifically for web on-scroll animations.</li>
