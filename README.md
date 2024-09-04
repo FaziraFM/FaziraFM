@@ -10,7 +10,7 @@
 
 <div id="header" align="start">
   <ul>
-    <li> 👩🏻‍💻 Software Engineer at Phi Software Sdn. Bhd. </li>
+    <li> 👩🏻‍💻 Jr. Software Engineer at Phi Software Sdn. Bhd. </li>
     <li> 🕵🏻 Also a freelancer mainly on front-end development, UI/UX design and graphic design. </li>
     <li> 🌱 On a side quest to improve my knowledge in JavaScript on LeetCode.</li>
     <li> 📚 Currently exploring more on ReactNative. </li>
