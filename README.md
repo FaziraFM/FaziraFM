@@ -12,8 +12,8 @@
   <ul>
     <li> 👩🏻‍💻 Software Engineer at Phi Software Sdn. Bhd. </li>
     <li> 🕵🏻 Also a freelancer mainly on front-end development, UI/UX design and graphic design. </li>
-    <li> 🌱 Currently learning to improve my knowledge in JavaScript on LeetCode.</li>
-    <li> 📚 Currently taking class for ReactNative. </li>
+    <li> 🌱 On a side quest to improve my knowledge in JavaScript on LeetCode.</li>
+    <li> 📚 Currently exploring more on ReactNative. </li>
     <li> 🤔 Looking for help with web-base development specifically for web on-scroll animations.</li>
     <li> 📫 How to reach me: email - <a href="mailto:fazferrari99@gmail.com">fazferrari99@gmail.com</a> / Whatsapp - <a href="tel:+60145519968">0145519968</a> </li>
     <li> 💡 I'll basically learn anything that peaks my interest. It's random most of the time XD</li>
